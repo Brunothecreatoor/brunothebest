@@ -1,4 +1,4 @@
-## Olá!! Me chamo Kauê Marinho
+## Olá!! Me chamo Bruno Barreto
 <div>
   <a href="https://github.com/Brunothebest">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunothebest&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/brunothebest/github-readme-stats#gh-dark-mode-only"/>
