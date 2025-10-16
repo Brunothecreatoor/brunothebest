@@ -1,8 +1,8 @@
 ## Olá!! Me chamo Bruno Barreto
 <div>
-  <a href="https://github.com/Brunothebest">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunothebest&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/brunothebest/github-readme-stats#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunothebest&layout=compact&lagns_count=16&theme=transparent"/>
+  <a href="https://github.com/Brunothecreator">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunothecreator&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/brunothebest/github-readme-stats#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunothecreator&layout=compact&lagns_count=16&theme=transparent"/>
 </div>
 
 
@@ -15,7 +15,7 @@
 
 ##
   <picture>  
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunothebest/brunothebest/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunothebest/brunothebest/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunothebest/brunothebest/output/github-contribution-grid-snake.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunothebest/brunothecreator/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunothebest/brunothecreator/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunothebest/brunothecreator/output/github-contribution-grid-snake.svg">
 </picture>
